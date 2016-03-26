@@ -3,7 +3,7 @@ using System.Collections;
 
 [System.Serializable]
 public class Boundary {
-	public float xMin, xMax, zMin, zMax;
+	public float xMin, xMax, zMin, zMax, test;
 }
 
 public class PlayerController : MonoBehaviour {
